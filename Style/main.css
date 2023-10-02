@@ -16,7 +16,7 @@ body {
 }
 .wrapper #Header {
   flex: 0 0 auto;
-  background-color: gray;
+  background-color: green;
   height: 70px;
 }
 .wrapper #Header .nav_menu {
